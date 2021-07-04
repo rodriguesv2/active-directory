@@ -1,0 +1,15 @@
+{
+  "client_id" : "c769a9e5-5476-4055-ab4b-f6f651c4c382",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://br.com.rubensrodrigues.activedirectory/%2BGFyTvoapQsJigAjMCRO8YKoTWs%3D",
+  "account_mode" : "SINGLE",
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADMyOrg",
+        "tenant_id": "5536ac6c-e988-42ef-bfc5-5282e48019db"
+      }
+    }
+  ]
+}
